@@ -2,7 +2,7 @@
 <details>
   <summary>Language: Deutsch</summary>
 
-[🇬🇧 **English**](README.md)
+[🇬🇧 **English**](https://github.com/NestLegends/Creator-Server/blob/main/README.md)
 [🇩🇪 **Deutsch**](german.md)
 
 </details>
