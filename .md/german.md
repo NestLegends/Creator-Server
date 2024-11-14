@@ -2,7 +2,7 @@
 <details>
   <summary>Language: Deutsch</summary>
 
-[🇬🇧 **English**](main/README.md)
+[🇬🇧 **English**](/main/README.md)
 [🇩🇪 **Deutsch**](german.md)
 
 </details>
