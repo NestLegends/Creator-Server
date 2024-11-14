@@ -1,9 +1,9 @@
 # 📦 **Releases Übersicht**
 <details>
-  <summary>Language: English</summary>
+  <summary>Language: Deutsch</summary>
 
-[🇬🇧 **English**](https://example.com/1.11)
-[🇩🇪 **Deutsch**](https://example.com/1.11/infos)
+[🇬🇧 **English**]()
+[🇩🇪 **Deutsch**]()
 
 </details>
 
