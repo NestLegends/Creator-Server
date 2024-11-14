@@ -3,7 +3,7 @@
 <details>
   <summary>Language: English</summary>
 
-  ## **0 Supported Languages**
+  ## **0 Supported Languages ✨**
   
   [**English**](https://github.com/NestLegends/Creator-Server/blob/main/README.md)  
   [**Abkhazian**](.md/)  
