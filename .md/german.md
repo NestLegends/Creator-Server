@@ -2,8 +2,8 @@
 <details>
   <summary>Language: Deutsch</summary>
 
-[🇬🇧 **English**]()
-[🇩🇪 **Deutsch**]()
+[🇬🇧 **English**](english.md)
+[🇩🇪 **Deutsch**](german.md)
 
 </details>
 
